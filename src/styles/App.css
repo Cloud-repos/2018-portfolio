@@ -1,0 +1,53 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.bg-faded {
+  background-color: #ddd;
+}
+
+.navbar-brand {
+  margin-top: 2px;
+}
+
+.header {
+  background-color:transparent;
+  color: white;
+  position: absolute;
+  font-size: 4em;
+  top: 5%;
+  left: 25%;
+  text-align: center;
+}
+
+.h3 {
+  color: #005200;
+  font-style: italic;
+  font-weight: normal;
+  font-size: .25em;
+  margin-left: 20%;
+  margin-right: 90px;
+}
+
+footer {
+  background-color: #ddd;
+  padding-top: 12px;
+  padding-bottom: 5px;
+}
+
+.copyright {
+  color: grey;
+  text-align: center;
+  font-size: .75rem;
+  margin-bottom: 10px;
+}
+
+.list-inline-item {
+  opacity: .5;
+  transition: all .25s;
+  padding-right: 10px;
+}
+
+.list-inline-item:hover {
+  opacity: 1;
+}

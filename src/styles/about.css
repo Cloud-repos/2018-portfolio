@@ -1,0 +1,30 @@
+.image, .gwc {
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.gwc {
+  margin-top: 1px;
+}
+h2 {
+  margin: 1% 0%;
+}
+h3 {
+  text-align: center;
+}
+.header {
+  background-color:transparent;
+}
+.btn-lg {
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+.card-title {
+  margin: 1% 0%;
+}
+.footer {
+  text-align: center;
+}
